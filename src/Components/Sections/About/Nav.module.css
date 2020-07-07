@@ -1,8 +1,5 @@
-
-.NavBar
+.NavBar ul
 {
-    position:relative;
-    z-index:99;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -15,7 +12,7 @@
     box-shadow: 0px 10px black;
 }
 
-.Link
+.NavBar ul li 
 {
     display: block;
     height:100%;
@@ -30,11 +27,9 @@
 {
     color: white;
 }
-
-.Link:hover , .activeLink
+.NavBar ul li:hover
 {
     box-shadow: 0px 10px red;
-    color: white;
     background-color: rgba(0, 0, 0, 0.8);
     transition: 1s;
 }
