@@ -20,7 +20,7 @@ class Games extends PureComponent {
                     {
                         CardID: 3,
                         Heading: "Spiderman",
-                        ImageURL: "./Assets/Spiderman.png"
+                        ImageURL: "./Assets/Spiderman.jpg"
                     },
                     {
                         CardID: 2,
@@ -30,7 +30,7 @@ class Games extends PureComponent {
                     {
                         CardID: 3,
                         Heading: "Spiderman",
-                        ImageURL: "./Assets/Spiderman.png"
+                        ImageURL: "./Assets/Spiderman.jpg"
                     },
                     {
                         CardID: 1,
